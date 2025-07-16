@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: https://si.almaata.ac.id/news/sitemap.xml
